@@ -1,0 +1,6 @@
+code: strapi-poc-bundle
+description: Template for strapi poc
+components:
+  widgets:
+    - ui/widgets/widgets-dir/et-widget/et-widget-descriptor.yaml
+
