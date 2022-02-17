@@ -1,0 +1,6 @@
+code: sb-app
+titles:
+  en: Strapi Template MF
+  it: Strapi Template MF
+group: free
+customUiPath: et-widget.ftl
